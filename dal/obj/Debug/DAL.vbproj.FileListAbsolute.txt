@@ -1,0 +1,244 @@
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\bin\Debug\dal.dll
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\bin\Debug\dal.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\obj\Debug\dal.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\obj\Debug\dal.Resources.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\obj\Debug\dal.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\obj\Debug\dal.dll
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\obj\Debug\dal.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\dal\obj\Debug\dal.pdb
+F:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.dll
+F:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.pdb
+F:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.xml
+F:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.dll
+F:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.pdb
+F:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.xml
+F:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+F:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.Resources.resources
+F:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+F:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.dll
+F:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.xml
+F:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.pdb
+G:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.dll
+G:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.pdb
+G:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.xml
+G:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.dll
+G:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.pdb
+G:\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.xml
+G:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+G:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.Resources.resources
+G:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+G:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.dll
+G:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.xml
+G:\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\bin\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\bin\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\obj\Debug\dal.Resources.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\obj\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\obj\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\Ferreteria\dal\obj\Debug\dal.pdb
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.dll
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.xml
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.Resources.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.dll
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.xml
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\bin\Debug\dal.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\bin\Debug\dal.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\bin\Debug\dal.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\bin\Debug\Entidades.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\bin\Debug\Entidades.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\bin\Debug\Entidades.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\obj\Debug\dal.Resources.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\obj\Debug\dal.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\obj\Debug\dal.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\dal\obj\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.Resources.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\dal\obj\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\dal.Resources.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\dal.pdb
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\dal.dll
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\dal.pdb
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\dal.xml
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\Entidades.dll
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\Entidades.pdb
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\bin\Debug\Entidades.xml
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\dal.Resources.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\dal.dll
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\dal.xml
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\dal\obj\Debug\dal.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\bin\Debug\dal.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\bin\Debug\dal.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\bin\Debug\dal.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\bin\Debug\Entidades.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\bin\Debug\Entidades.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\bin\Debug\Entidades.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\obj\Debug\dal.Resources.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\obj\Debug\dal.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\obj\Debug\dal.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\dal\obj\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.Resources.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.Resources.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.dll
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.xml
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\dal\obj\Debug\dal.pdb
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\obj\Debug\dal.Resources.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\obj\Debug\dal.dll
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\obj\Debug\dal.xml
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\dal\obj\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\obj\Debug\dal.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\obj\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\obj\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\dal\obj\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\bin\Debug\itextsharp.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\bin\Debug\itextsharp.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\obj\Debug\dal.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\obj\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\obj\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\dal\obj\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\itextsharp.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.Resources.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\itextsharp.xml
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.xml
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.Resources.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.xml
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\dal.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\bin\Debug\Entidades.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.Resources.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\dal\obj\Debug\dal.pdb

@@ -1,0 +1,190 @@
+<!--<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">-->
+<!--<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">-->
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">-->
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">-->
+<html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<meta http-equiv="Expires" content="Mon, 06 Jan 1990 00:00:01 GMT">
+	<title>AFIP - Administración Federal de Ingresos Públicos</title>
+	<link rel="shortcut icon" href="https://serviciosjava2.afip.gob.ar/rcel/jsp/favicon.ico">
+	<link href="boleta%20exe_files/afip_jig.css" rel="stylesheet" type="text/css">
+	<link href="boleta%20exe_files/jig.css" rel="stylesheet" type="text/css">
+	<link href="boleta%20exe_files/jig_print.css" rel="stylesheet" type="text/css" media="print">
+	<style type="text/css">@import url(scripts/calendar/calendar-blue2.css);</style>
+	<script type="text/javascript" src="boleta%20exe_files/calendar.js"></script>
+	<script type="text/javascript" src="boleta%20exe_files/calendar-es.js"></script>
+	<script type="text/javascript" src="boleta%20exe_files/calendar-setup.js"></script>
+	<script type="text/javascript">
+	function salirAplicacion() {
+		if (confirm("¿Desea salir de la aplicacion?")) {
+			var xmlHttp;
+			try { // Safari, Firefox, Opera, etc.
+				xmlHttp = new XMLHttpRequest();
+			} catch (E) { // Internet Explorer
+				try { 
+					xmlHttp = new ActiveXObject("Msxml2.XMLHTTP");
+				} catch (E) {
+					try { 					
+						xmlHttp = new ActiveXObject("Microsoft.XMLHTTP");
+					} catch (E) {
+						alert("El browser utilizado no soporta AJAX!");
+						return false;
+					}
+				}
+			}
+				
+			try {
+				xmlHttp.open("GET", "logout.do", false);
+				xmlHttp.send(null);
+				if (xmlHttp.readyState == 4) { // Complete
+					if (xmlHttp.status == 200) { // OK response
+					} else {
+						alert("Problem: " + req.statusText);
+					}
+				}
+			} catch (Ex) {
+				alert("Error");
+			}
+			window.opener = self;
+			window.close();
+		}
+	}
+	</script>
+</head>
+<body class="jig_fondo_sombra">
+<center>
+<table id="HeaderTableClaveFiscal" style="background-color:#FFFFFF;width:771px;page-break-after:avoid;" cellpadding="0px" cellspacing="0px">
+	<tbody><tr style="background-color:#006699;background-image:url(../includes/imagenes/logo_afip_servicios_largo_fondo2.png);"><!--#ECF9FF-->
+		<td style="width:240px;" valign="middle"><img src="boleta%20exe_files/logo_afip_servicios_largo_nuevo3.png" alt="" height="65px" width="210px"></td>
+		<td style="width:316px;color:#FFF;text-shadow:#000 0px 2px 4px;" class="contenido">Usuario: <strong>TARDINI ALBERTO OSCAR</strong><br>
+			Representando a: <strong>TARDINI HNOS S H DE TARDINI ALBERTO Y TARDINI G</strong>
+		</td>
+		<td align="right"><img src="boleta%20exe_files/logo_afip_servicios_largo_derecha3.png" alt="" height="65px" width="260px"></td>
+	</tr>
+</tbody></table>
+<table id="BodyTable" style="height:80%;width:771px;page-break-before:avoid;" cellpadding="0px" cellspacing="0px">
+	<tbody><tr>
+		<td style="width:100%;" valign="top">
+			<table style="width:100%;" border="0px" cellpadding="0px" cellspacing="0px">
+				<tbody><tr> 
+					<td style="width:22px;text-align:left;"><img src="boleta%20exe_files/tit_fondo.gif" alt="" height="20px" width="20px"></td>
+					<td style="background-image:url(../includes/imagenes/tit_fondo_derecha.png);font-weight:bold;text-shadow:#FFF 0px 1px 4px;">&nbsp;Regímenes de Facturación y Registración</td>
+					<td style="background-image:url(../includes/imagenes/tit_fondo_derecha.png);width:60px; text-align:center;"><a href="#" onclick="salirAplicacion();">Salir</a></td>
+				</tr>
+			</tbody></table>
+			<!--Subtitulo y Contenido-->
+			<table style="width:100%;" cellpadding="0px" cellspacing="0px">
+				<tbody><tr>
+					<td align="center" height="38px" valign="top"><table style="background-color:#FFFFFF;width:100%;height:100%;" cellpadding="0" cellspacing="0">  <tbody><tr><td class="subtitulo" colspan="4" align="center"><b>TARDINI HNOS S H DE TARDINI ALBERTO Y TARDINI G</b></td></tr>  <tr>    <td class="subtitulo_contribuyente" style="background-image:url(imagenes/fondopiedepagina.gif)" width="1%">CUIT:</td>    <td class="renglon_cuit">30677091688</td>    <td class="subtitulo_contribuyente" style="background-image:url(imagenes/fondopiedepagina.gif)" width="1%">Dependencia:</td>    <td class="renglon_dep" nowrap="nowrap" width="1%">AGENCIA NRO 2</td>  </tr></tbody></table></td>
+				</tr>
+				<tr>
+					<td align="center">
+						<div style="overflow:hidden;margin-top:-0px;" id="divCentral">
+
+
+
+
+
+
+<div class="jig_titulo_con_subtitulo">RCEL - RÉGIMEN DE COMPROBANTES EN LÍNEA</div>
+<div class="jig_subtitulo">CONSULTA DE COMPROBANTES</div>
+<br>
+<div class="jig_borde">
+	<div class="jig_contenido">
+		<br>
+		<table class="jig_table" cellpadding="3px" cellspacing="0px">
+			<tbody><tr>
+			  	<th>Fecha Emisión</th>
+				<th>Tipo Comprobante</th>
+				<th>Nro. Comprobante</th>
+				<th style="width:80px;">Tipo Doc. del Receptor</th>
+				<th>Nro. Doc. del Receptor</th>
+				<th>CAE</th>
+				<th>Ver</th>
+				<th>Exportar Duplicado Electrónico</th>
+				<th>Exportar Ventas</th>
+				<th>Exportar XML</th>
+			</tr>
+			
+			
+			
+			
+			<tr class="jig_par">
+			   	<td title="Fecha de Emisión">04/01/2016</td>
+			   	<td title="Tipo Comprobante">Factura B</td>
+			   	<td title="Nro. Comprobante" nowrap="nowrap">0003-00000019</td>
+			   	<td title="Tipo Doc. del Receptor">CUIT</td>
+			   	<td title="Nro. Doc. del Receptor">30582366442</td>
+			   	<td title="CAE">66018079301541</td>
+			   	<td title="Ver"><input value="Ver" style="width:50px;" title="Ver el documento original para imprimir o reimprimir" onclick="parent.location.href='imprimirComprobante.do?c=477974210'" type="button"></td>
+			   	<td title="Exportar"><input value="Exp." style="width:50px;" title="Exportar los datos contenidos según el formato establecido para Duplicado Electrónico" onclick="/*window.open('en_construccion.jsp');*/parent.location.href='exportarComprobante.do?t=z&amp;c=477974210';" type="button"></td>
+			    <td title="Exportar"><input value="Exp." style="width:50px;" title="Exportar las ventas al formato requerido en el aplicativo - Compras y Ventas - establecido por la RG 3685" onclick="/*window.open('en_construccion.jsp');*/parent.location.href='exportarComprobante.do?t=v&amp;c=477974210';" type="button"></td>
+			   	<td title="Exportar"><input value="Exp." style="width:50px;" disabled="disabled" type="button"></td>
+			</tr>
+			
+			
+			
+			
+			<tr class="jig_impar">
+			   	<td title="Fecha de Emisión">04/01/2016</td>
+			   	<td title="Tipo Comprobante">Factura A</td>
+			   	<td title="Nro. Comprobante" nowrap="nowrap">0003-00000379</td>
+			   	<td title="Tipo Doc. del Receptor">CUIT</td>
+			   	<td title="Nro. Doc. del Receptor">30710368542</td>
+			   	<td title="CAE">66018065176654</td>
+			   	<td title="Ver"><input value="Ver" style="width:50px;" title="Ver el documento original para imprimir o reimprimir" onclick="parent.location.href='imprimirComprobante.do?c=477554547'" type="button"></td>
+			   	<td title="Exportar"><input value="Exp." style="width:50px;" title="Exportar los datos contenidos según el formato establecido para Duplicado Electrónico" onclick="/*window.open('en_construccion.jsp');*/parent.location.href='exportarComprobante.do?t=z&amp;c=477554547';" type="button"></td>
+			    <td title="Exportar"><input value="Exp." style="width:50px;" title="Exportar las ventas al formato requerido en el aplicativo - Compras y Ventas - establecido por la RG 3685" onclick="/*window.open('en_construccion.jsp');*/parent.location.href='exportarComprobante.do?t=v&amp;c=477554547';" type="button"></td>
+			   	<td title="Exportar"><input value="Exp." style="width:50px;" disabled="disabled" type="button"></td>
+			</tr>
+			
+			
+			
+			
+			<tr class="jig_par">
+			   	<td title="Fecha de Emisión">04/01/2016</td>
+			   	<td title="Tipo Comprobante">Factura A</td>
+			   	<td title="Nro. Comprobante" nowrap="nowrap">0003-00000378</td>
+			   	<td title="Tipo Doc. del Receptor">CUIT</td>
+			   	<td title="Nro. Doc. del Receptor">30709150045</td>
+			   	<td title="CAE">66018063184001</td>
+			   	<td title="Ver"><input value="Ver" style="width:50px;" title="Ver el documento original para imprimir o reimprimir" onclick="parent.location.href='imprimirComprobante.do?c=477469886'" type="button"></td>
+			   	<td title="Exportar"><input value="Exp." style="width:50px;" title="Exportar los datos contenidos según el formato establecido para Duplicado Electrónico" onclick="/*window.open('en_construccion.jsp');*/parent.location.href='exportarComprobante.do?t=z&amp;c=477469886';" type="button"></td>
+			    <td title="Exportar"><input value="Exp." style="width:50px;" title="Exportar las ventas al formato requerido en el aplicativo - Compras y Ventas - establecido por la RG 3685" onclick="/*window.open('en_construccion.jsp');*/parent.location.href='exportarComprobante.do?t=v&amp;c=477469886';" type="button"></td>
+			   	<td title="Exportar"><input value="Exp." style="width:50px;" disabled="disabled" type="button"></td>
+			</tr>
+			
+		</tbody></table>
+		<br>
+	</div>
+</div>
+<br>
+<input value="&lt; Volver" onclick="parent.history.back();" title="Volver al Filtro" type="button">
+&nbsp;<input value="Exportar Duplicados Electrónicos (Todos)" onclick="/*window.open('en_construccion.jsp');*/parent.location.href='exportarListaComprobantes.do?t=z';" title="Exportar todos los Comprobantes" type="button">
+&nbsp;<input value="Exportar Ventas (Todas)" onclick="/*window.open('en_construccion.jsp');*/parent.location.href='exportarListaComprobantes.do?t=v';" title="Exportar todos los Comprobantes" type="button">
+<br><br>
+<table cellpadding="0" cellspacing="0">
+	<tbody><tr><td colspan="2"><div class="jig_separador_botones"><!-- IE falla sin este comentario --></div></td></tr>
+	<tr><td><input value="Menú Principal" onclick="parent.location.href='menu_ppal.jsp'" type="button"></td><td><input value="Nueva Búsqueda" onclick="parent.location.href='filtrarComprobantesGenerados.do'" title="Nueva Búsqueda" type="button"></td></tr>
+</tbody></table>
+<br>
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+<table id="FooterTableClaveFiscal" cellspacing="0">
+	<tbody><tr>
+		<td class="contenido" style="color:#025;" align="left">Fecha: <strong>Lunes, 4 de Enero de 2016 </strong></td>
+		<td class="contenido" style="color:#025;" align="right">Autenticado por: <strong>ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+</strong></td>
+	</tr>
+</tbody></table>
+</center>
+
+
+
+</body></html>

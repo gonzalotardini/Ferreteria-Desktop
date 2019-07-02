@@ -1,0 +1,11 @@
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ARTICULOS.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Form1.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.pdb

@@ -1,0 +1,82 @@
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\bin\Debug\SL.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\bin\Debug\SL.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\bin\Debug\SL.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\bin\Debug\itextsharp.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\bin\Debug\itextsharp.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\obj\Debug\SL.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\obj\Debug\SL.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\obj\Debug\SL.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\obj\Debug\SL.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\obj\Debug\SL.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\SL\obj\Debug\SL.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\itextsharp.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\itextsharp.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\itextsharp.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.Resources.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.pdb
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.pdb
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.xml
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\itextsharp.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.xml
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.Resources.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.xml
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\SL.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\itextsharp.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\dal.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\bin\Debug\Entidades.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.vbprojResolveAssemblyReference.cache
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.Resources.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.vbproj.GenerateResource.Cache
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\SL\obj\Debug\SL.pdb

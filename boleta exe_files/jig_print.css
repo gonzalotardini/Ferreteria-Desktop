@@ -1,0 +1,79 @@
+html,body {
+	width:95%;
+}
+
+table.jig_table {
+	border-top:1px solid #1b72d3;
+	border-left:0px solid #1b72d3;
+	border-right:0px solid #1b72d3;
+	border-bottom:1px solid #1b72d3;
+}
+
+table.jig_table th {
+	color:#fff;
+	background:#1265c5;
+	background-image:url(../imagenes/fondotitulotabla.png);
+	background-position:center;
+	padding:0px 5px 0px 5px;
+	border-left:0px solid #1b72d3;
+	border-right:0px solid #1b72d3;
+	border-top:1px solid #1b72d3;
+	border-bottom:2px solid #1b72d3;
+	font-weight:bold;
+	text-align:center;
+	font-size:8px;
+}
+
+table.jig_table td {
+	border-left:0px solid #1b72d3;
+	border-right:0px solid #1b72d3;
+	border-bottom:1px solid #1b72d3;
+	padding:1px 5px 1px 5px;
+	text-align:center;
+	font-size:8px;
+}
+
+table.jig_table tr.jig_gris_rayado td {
+	border-left:0px solid #888;
+}
+
+.subtitulo {
+   	border-left:1px solid #1b72d3; 
+}
+
+.subtitulo_contribuyente {
+   	border:1px solid #1b72d3; 
+   	border-bottom:2px solid #1b72d3;
+}
+ 
+.renglon_cuit,.renglon_dep {
+	border:1px solid #1b72d3;
+	border-bottom:2px solid #1b72d3;
+}
+
+
+table#HeaderTableClaveFiscal {
+	width:95%;
+}
+
+table#FooterTableClaveFiscal {
+	width:95%;
+}
+
+table#BodyTable {
+	width:95%;
+}
+
+table#FooterTable {
+	width:95%;
+}
+
+div.jig_contenido {
+	width:95%;
+	padding-left:5px;
+	text-align:left;
+}
+
+#botones_navegacion {
+	display:none;
+}

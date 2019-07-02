@@ -1,0 +1,137 @@
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Entidades\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Entidades\obj\Debug\Entidades.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Entidades\obj\Debug\Entidades.pdb
+F:\SISTEMA FERRETERIA\Ferreteria\Entidades\bin\Debug\Entidades.dll
+F:\SISTEMA FERRETERIA\Ferreteria\Entidades\bin\Debug\Entidades.pdb
+F:\SISTEMA FERRETERIA\Ferreteria\Entidades\bin\Debug\Entidades.xml
+F:\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.Resources.resources
+F:\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+F:\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.dll
+F:\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.xml
+F:\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.pdb
+G:\SISTEMA FERRETERIA\Ferreteria\Entidades\bin\Debug\Entidades.dll
+G:\SISTEMA FERRETERIA\Ferreteria\Entidades\bin\Debug\Entidades.pdb
+G:\SISTEMA FERRETERIA\Ferreteria\Entidades\bin\Debug\Entidades.xml
+G:\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.Resources.resources
+G:\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+G:\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.dll
+G:\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.xml
+G:\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\Ferreteria\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\Ferreteria\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\Ferreteria\Entidades\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\Ferreteria\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\Ferreteria\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\Ferreteria\Entidades\obj\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\Ferreteria\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Entidades\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.xml
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Entidades\obj\Debug\Entidades.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Entidades\bin\Debug\Entidades.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Entidades\bin\Debug\Entidades.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Entidades\bin\Debug\Entidades.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Entidades\obj\Debug\Entidades.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Entidades\obj\Debug\Entidades.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Entidades\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Entidades\obj\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Entidades\obj\Debug\Entidades.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Entidades\bin\Debug\Entidades.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Entidades\bin\Debug\Entidades.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Entidades\bin\Debug\Entidades.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Entidades\obj\Debug\Entidades.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Entidades\obj\Debug\Entidades.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Entidades\obj\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Entidades\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Entidades\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Entidades\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Entidades\obj\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Entidades\obj\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Entidades\obj\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Entidades\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Entidades\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Entidades\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Entidades\obj\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Entidades\obj\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Entidades\obj\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Entidades\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Entidades\obj\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Entidades\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Entidades\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Entidades\obj\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Entidades\obj\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Entidades\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Entidades\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Entidades\obj\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Entidades\obj\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.xml
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\bin\Debug\Entidades.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Entidades\obj\Debug\Entidades.pdb

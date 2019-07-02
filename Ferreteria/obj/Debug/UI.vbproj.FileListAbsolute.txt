@@ -1,0 +1,831 @@
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\dal.dll
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\dal.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ARTICULOS.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Form1.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.application
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.config
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.xml
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.pdb
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.application
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.pdb
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.xml
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.dll
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.dll
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.pdb
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.xml
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.pdb
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.xml
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ARTICULOS.resources
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Form1.resources
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.application
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.config
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.xml
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.pdb
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.application
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.pdb
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.xml
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.dll
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.dll
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.pdb
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.xml
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.pdb
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.xml
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ARTICULOS.resources
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Form1.resources
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+G:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\BLL.dll
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\bin\Debug\BLL.xml
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2012\Ferreteria\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\BLL.dll
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\BLL.pdb
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\BLL.xml
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+F:\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\BLL.dll
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\BLL.xml
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\Gonzalo\Desktop\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Principal.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\BLL.dll
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.dll
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\BLL.xml
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.xml
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Articulos_2.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Principal.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\Gonzalo\Dropbox\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\BLL.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\dal.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\BLL.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\dal.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\dal.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Articulos_2.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Principal.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\rodrigo\Desktop\sistema no tocar\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Presupuesto2.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\BLL.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\BLL.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Presupuesto2.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Principal.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\Ferreteria\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\BLL.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\BLL.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Presupuesto2.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\BLL.dll
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\dal.dll
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\BLL.xml
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\dal.pdb
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\dal.xml
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Presupuesto2.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Principal.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\rodrigo\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\BLL.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\dal.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\BLL.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\dal.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\dal.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Presupuesto2.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Principal.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\rodrigo\Desktop\sistema no tocar\FerreteriaModificado29-2-16\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado29-2-16\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\BLL.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\BLL.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Presupuesto2.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Desktop\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\BLL.dll
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\BLL.xml
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Presupuesto2.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Dropbox\SISTEMA FERRETERIA\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\BLL.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\BLL.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Presupuesto2.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\BLL.dll
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\BLL.xml
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.Presupuesto2.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Dropbox\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ArticulosEliminadosForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\BLL.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\BLL.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ArticulosEliminadosForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ARTICULOSForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\BLL.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\BLL.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ArticulosEliminadosForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ARTICUlosss.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado07-0316 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\BLL.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\BLL.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ArticulosEliminadosForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\SL.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\SL.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\SL.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.BackUpForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoPDF.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\BLL.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\dal.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\itextsharp.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\SL.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\BLL.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\dal.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\dal.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\SL.pdb
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\SL.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\itextsharp.xml
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.ArticulosEliminadosForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.Articulos.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.BackUpForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.PresupuestoPDF.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2 - copia\Ferreteria\obj\Debug\Ferreteria.PDF.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PDF.resources
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ArticulosForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.application
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\BLL.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\dal.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\SL.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\BLL.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\dal.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\dal.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\SL.pdb
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\SL.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\itextsharp.xml
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ArticulosEliminadosForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ArticulosForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.BackUpForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PDF.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoPDF.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.exe.manifest
+C:\Users\Gonzalo\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.application
+C:\Users\NOTEBOOK\Desktop\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ModificacionesArticulosForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ArticulosEliminadosForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ArticulosForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.BackUpForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ModificacionesArticulosForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PDF.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoPDF.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\Gonzalo\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbprojResolveAssemblyReference.cache
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbproj.ResolveComReference.cache
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ArticulosEliminadosForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ArticulosForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.BackUpForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.CategoriaForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ClientesForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ModificacionesArticulosForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PDF.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Precios.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.MarcaForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ModificarArticuloForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Resources.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoDetalleForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoNuevoForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestoPDF.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.Principal2.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.ReportePrecios.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.SubCategoriaForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.SubUnidadMedidaForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.UnidadMedidaForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.PresupuestosForm.resources
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\UI.vbproj.GenerateResource.Cache
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.exe
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\obj\Debug\Ferreteria.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\BLL.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\dal.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\SL.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\BLL.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\BLL.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\dal.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\dal.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Entidades.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\SL.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\SL.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.exe.config
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.exe
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.pdb
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Ferreteria.xml
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\FERRETERIA2\Dropbox\FerreteriaModificado 1-07-16 reporte precios - copia2\Ferreteria\bin\Debug\AxInterop.AcroPDFLib.dll
