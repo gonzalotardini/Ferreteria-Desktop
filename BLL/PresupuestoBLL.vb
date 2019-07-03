@@ -14,33 +14,23 @@ Public Class PresupuestoBLL
         Dim cod As Integer
 
 
-
-
-        'Dim ts As TransactionScope = New TransactionScope
-
         Using ts As TransactionScope = New TransactionScope
 
             PresupuestoDal.CrearNuevoPresupuestoCabecera(Cabecera)
 
             cod = (PresupuestoDal.ObtenerCodUltimoPresupuesto.Cod_Presupuesto)
 
-
-
-
             For I = 1 To ListaDetalle.Count
-
 
                 'PresupuestoDetalle.Cod_Presupuesto = ListaDetalle.Item(I - 1).Cod_Presupuesto
                 PresupuestoDetalle.Cod_Presupuesto = cod
                 PresupuestoDetalle.Cantidad = ListaDetalle.Item(I - 1).Cantidad
                 PresupuestoDetalle.Cod_Articulo = ListaDetalle.Item(I - 1).Cod_Articulo
+                PresupuestoDetalle.Descripcion = ListaDetalle.Item(I - 1).Descripcion
                 PresupuestoDetalle.Precio = ListaDetalle.Item(I - 1).Precio
                 PresupuestoDetalle.Importe = ListaDetalle.Item(I - 1).Importe
 
                 PresupuestoDal.CrearNuevoPresupuestoDetalle(PresupuestoDetalle)
-
-
-
             Next
 
             ts.Complete()

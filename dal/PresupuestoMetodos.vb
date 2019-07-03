@@ -112,7 +112,8 @@ Public Class PresupuestoMetodos
         Dim _DataSet As New DataSet
 
         'lleno el detalle del presupuesto
-        _Consulta = "select PC.Cantidad ,PC.cod_articulo as 'Codigo', A.Cod_Articulo_Proveedor as 'CodigoBarras', A.Descripcion, M.Descripcion as Marca, SU.Descripcion as 'UnidadMedida', PC.Precio, PC.importe as 'Importe' from Marca as M, SubUnidad_Medida as SU, PresupuestoDetalle as PC, Articulo AS A WHERE PC.Cod_Articulo=A.Cod_Articulo and M.Cod_Marca=A.cod_Marca and SU.Cod_SubUnidad_Medida=A.Cod_SubUnidad_Medida  AND Cod_Presupuesto=@Cod_Presupuesto "
+        _Consulta = "select PC.Cantidad ,PC.cod_articulo as 'Codigo', A.Cod_Articulo_Proveedor as 'CodigoBarras', CASE WHEN PC.Descripcion = null THEN  A.Descripcion ELSE PC.Descripcion end as 'Descripcion', "
+        _Consulta += "  M.Descripcion as Marca, SU.Descripcion as 'UnidadMedida', PC.Precio, PC.importe as 'Importe' from Marca as M, SubUnidad_Medida as SU, PresupuestoDetalle as PC, Articulo AS A WHERE PC.Cod_Articulo=A.Cod_Articulo and M.Cod_Marca=A.cod_Marca and SU.Cod_SubUnidad_Medida=A.Cod_SubUnidad_Medida  AND Cod_Presupuesto=@Cod_Presupuesto "
 
         _Comando = New SqlCommand(_Consulta, Me.Conexion)
 
@@ -223,13 +224,14 @@ Public Class PresupuestoMetodos
             Me.Conexion.Close()
             Me.Conexion.Open()
 
-            _Consulta = "Insert into PresupuestoDetalle (Cod_Presupuesto, Cod_Articulo, Cantidad, Precio, Importe, SubTotal, Iva) values (@Cod_Presupuesto, @Cod_Articulo, @Cantidad, @Precio, @Importe, @SubTotal, @Iva) "
+            _Consulta = "Insert into PresupuestoDetalle (Cod_Presupuesto, Cod_Articulo, Cantidad, Descripcion, Precio, Importe, SubTotal, Iva) values (@Cod_Presupuesto, @Cod_Articulo, @Cantidad, @Descripcion, @Precio, @Importe, @SubTotal, @Iva) "
 
             _Comando = New SqlCommand(_Consulta, Me.Conexion)
 
             _Comando.Parameters.AddWithValue("@Cod_Presupuesto", PresupuestoDetalle.Cod_Presupuesto)
             _Comando.Parameters.AddWithValue("@Cod_Articulo", PresupuestoDetalle.Cod_Articulo)
             _Comando.Parameters.AddWithValue("@Cantidad", PresupuestoDetalle.Cantidad)
+            _Comando.Parameters.AddWithValue("@Descripcion", PresupuestoDetalle.Descripcion)
             _Comando.Parameters.AddWithValue("@Precio", PresupuestoDetalle.Precio)
             _Comando.Parameters.AddWithValue("@Importe", PresupuestoDetalle.Importe)
             _Comando.Parameters.AddWithValue("@SubTotal", PresupuestoDetalle.SubTotal)

@@ -501,6 +501,7 @@ Public Class PresupuestoDetalleForm
                     '_PresupuestoDetalle.Cod_Presupuesto = _PresupuestoCabecera.Cod_Presupuesto
                     _PresupuestoDetalle.Cantidad = DataGridView1.Rows(i).Cells("Cantidad").Value
                     _PresupuestoDetalle.Cod_Articulo = DataGridView1.Rows(i).Cells("Codigo").Value
+                    _PresupuestoDetalle.Descripcion = DataGridView1.Rows(i).Cells("Descripcion").Value.ToString().ToUpper()
                     _PresupuestoDetalle.Precio = DataGridView1.Rows(i).Cells("Precio").Value
                     _PresupuestoDetalle.Importe = DataGridView1.Rows(i).Cells("Importe").Value
 

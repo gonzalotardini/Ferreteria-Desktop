@@ -102,13 +102,6 @@ Public Class PresupuestoNuevoForm
                 Dim CantidadItems As Integer
                 Dim i As Integer
 
-
-
-
-
-
-
-
                 CantidadItems = DataGridView1.RowCount
 
 
@@ -122,31 +115,21 @@ Public Class PresupuestoNuevoForm
 
 
                 For i = 0 To (CantidadItems - 1)
-
                     presupuestoDetalle = New PresupuestoDetalle
 
                     presupuestoDetalle.Cod_Presupuesto = Convert.ToInt32(LabelCodPresupuesto.Text)
                     presupuestoDetalle.Cantidad = CDec(DataGridView1.Rows(i).Cells("Cantidad").Value)
                     presupuestoDetalle.Cod_Articulo = CStr(DataGridView1.Rows(i).Cells("Codigo").Value)
+                    presupuestoDetalle.Descripcion = (DataGridView1.Rows(i).Cells("Descripcion").Value).ToString().ToUpper()
                     presupuestoDetalle.Precio = CDec(DataGridView1.Rows(i).Cells("Precio").Value)
                     presupuestoDetalle.Importe = CDec(DataGridView1.Rows(i).Cells("Importe").Value)
 
-
-
-
                     ListaDetalle.Add(presupuestoDetalle)
-
-
-
                     'PresupuestoMetodos.CrearNuevoPresupuestoDetalle(presupuestoDetalle)
-
-
-
                 Next
 
 
                 PresupuestoBLL.AgregarPresupuestoCompleto(PresupuestoCabecera, ListaDetalle)
-
 
                 MsgBox("Presupuesto guardado correctamente", MsgBoxStyle.Information, "Información")
 

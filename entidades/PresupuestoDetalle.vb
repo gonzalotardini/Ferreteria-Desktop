@@ -3,6 +3,7 @@
     Private _Cod_Presupuesto As Long
     Private _Cod_Articulo As Integer
     Private _Cantidad As Decimal
+    Private _Descripcion As String
     Private _Precio As Decimal
     Private _Importe As Decimal
     Private _SubTotal As Decimal
@@ -41,7 +42,14 @@
         End Set
     End Property
 
-
+    Public Property Descripcion As String
+        Get
+            Return _Descripcion
+        End Get
+        Set(value As String)
+            _Descripcion = value
+        End Set
+    End Property
 
     Public Property Precio As Decimal
         Get
