@@ -23,6 +23,7 @@ Partial Class BackUpForm
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.SaveFileDialog1 = New System.Windows.Forms.SaveFileDialog()
         Me.SuspendLayout()
         '
         'Button1
@@ -47,4 +48,5 @@ Partial Class BackUpForm
 
     End Sub
     Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents SaveFileDialog1 As SaveFileDialog
 End Class

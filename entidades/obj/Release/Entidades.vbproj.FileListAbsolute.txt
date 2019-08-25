@@ -1,0 +1,9 @@
+C:\Projects\Ferreteria-Desktop\Entidades\bin\Release\Entidades.dll
+C:\Projects\Ferreteria-Desktop\Entidades\bin\Release\Entidades.pdb
+C:\Projects\Ferreteria-Desktop\Entidades\bin\Release\Entidades.xml
+C:\Projects\Ferreteria-Desktop\Entidades\obj\Release\Entidades.Resources.resources
+C:\Projects\Ferreteria-Desktop\Entidades\obj\Release\Entidades.vbproj.GenerateResource.cache
+C:\Projects\Ferreteria-Desktop\Entidades\obj\Release\Entidades.vbproj.CoreCompileInputs.cache
+C:\Projects\Ferreteria-Desktop\Entidades\obj\Release\Entidades.dll
+C:\Projects\Ferreteria-Desktop\Entidades\obj\Release\Entidades.xml
+C:\Projects\Ferreteria-Desktop\Entidades\obj\Release\Entidades.pdb

@@ -1,0 +1,16 @@
+C:\Projects\Ferreteria-Desktop\dal\bin\Release\dal.dll
+C:\Projects\Ferreteria-Desktop\dal\bin\Release\dal.pdb
+C:\Projects\Ferreteria-Desktop\dal\bin\Release\dal.xml
+C:\Projects\Ferreteria-Desktop\dal\bin\Release\Entidades.dll
+C:\Projects\Ferreteria-Desktop\dal\bin\Release\itextsharp.dll
+C:\Projects\Ferreteria-Desktop\dal\bin\Release\Entidades.pdb
+C:\Projects\Ferreteria-Desktop\dal\bin\Release\Entidades.xml
+C:\Projects\Ferreteria-Desktop\dal\bin\Release\itextsharp.xml
+C:\Projects\Ferreteria-Desktop\dal\obj\Release\DAL.vbprojAssemblyReference.cache
+C:\Projects\Ferreteria-Desktop\dal\obj\Release\dal.Resources.resources
+C:\Projects\Ferreteria-Desktop\dal\obj\Release\DAL.vbproj.GenerateResource.cache
+C:\Projects\Ferreteria-Desktop\dal\obj\Release\DAL.vbproj.CoreCompileInputs.cache
+C:\Projects\Ferreteria-Desktop\dal\obj\Release\DAL.vbproj.CopyComplete
+C:\Projects\Ferreteria-Desktop\dal\obj\Release\dal.dll
+C:\Projects\Ferreteria-Desktop\dal\obj\Release\dal.xml
+C:\Projects\Ferreteria-Desktop\dal\obj\Release\dal.pdb

@@ -9,7 +9,14 @@ Public Class ClaseConexion
 
 
     Public Sub New()
-        _CadenaConexion = New SqlConnection("data source = FERRETERIA-PC\SQLEXPRESS; initial catalog = Ferreteria; user id = FERRETERIA-PC; password = chaca1994")
+
+        Dim ip = ConfigurationManager.AppSettings("IP")
+        Dim base = ConfigurationManager.AppSettings("base")
+        Dim usuario = ConfigurationManager.AppSettings("usuario")
+        Dim contraseña = ConfigurationManager.AppSettings("contraseña")
+
+        '_CadenaConexion = New SqlConnection(ConfigurationManager.ConnectionStrings("ConnectionString").ConnectionString)
+        _CadenaConexion = New SqlConnection("data source =" & ip & "; initial catalog = " & base & "; user id =" & usuario & "; password =" & contraseña)
 
         '"data source = NOTEBOOK-PC\SQLEXPRESS; initial catalog = Ferreteria; user id = notebook; password = chaca1994"
         '"Data Source=GONZALO-PC\SQLEXPRESS;Initial Catalog=Ferreteria;Integrated Security=True"
