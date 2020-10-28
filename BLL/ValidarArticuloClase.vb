@@ -7,17 +7,10 @@ Public Class ValidarArticuloClase
     Public Function ValidarArticulo(articulo As Articulo) As Boolean
         Dim ArticuloMetodos As New ArticulosMetodos
 
-
-
-
-
-        
-            If articulo.Descripcion = "" Or (articulo.Descripcion) = " " Then
-                MsgBox("Introduzca Descripcion", MsgBoxStyle.Exclamation, "ATENCION")
-
-                Return False
+        If articulo.Descripcion = "" Or (articulo.Descripcion) = " " Then
+            MsgBox("Introduzca Descripcion", MsgBoxStyle.Exclamation, "ATENCION")
+            Return False
         Else
-
 
             Using ts As TransactionScope = New TransactionScope
 
@@ -31,26 +24,14 @@ Public Class ValidarArticuloClase
 
                 ArticuloMetodos.MovimientoPrecios(articulo, Fecha)
 
-
-
-
                 ts.Complete()
 
+
             End Using
-
-
-
 
             Return True
 
         End If
-
-
-
-
-
     End Function
-
-
 
 End Class

@@ -1,17 +1,18 @@
 ﻿Imports Entidades
 Imports dal
 Imports System.Transactions
+Imports SL
 Imports Microsoft.VisualBasic.PowerPacks
 
 Public Class ModificarArticuloForm
 
 
 
-    
+
     Public Cod_Articulo As Integer 'variable publcia que contiene el cod de articulo
     Private articuloMetodos As New ArticulosMetodos
     Private PrecioViejo As Decimal
-    
+
     Private Sub ModificarArticuloForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Me.Icon = My.Resources.icono
 
@@ -25,7 +26,7 @@ Public Class ModificarArticuloForm
         Articulo.Cod_Articulo = Cod_Articulo
 
         'cargo cod proveedor
-        ArticuloMetodos.ObtenerArticuloConID(Articulo)
+        articuloMetodos.ObtenerArticuloConID(Articulo)
         TextBox_Cod_Articulo_Proveedor.Text = Articulo.Cod_Articulo_Proveedor
 
         'cargo descripcion articulo
@@ -42,11 +43,6 @@ Public Class ModificarArticuloForm
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-
-
-
-
-
         If TextBox_Cod_Articulo_Proveedor.Text = "" Then
 
             MsgBox("Introduzca Codigo de Barras", MsgBoxStyle.Exclamation, "ATENCION")
@@ -87,9 +83,6 @@ Public Class ModificarArticuloForm
 
                                     Else
 
-
-
-
                                         Dim Articulo As New Articulo
                                         Dim articuloMetodos As New ArticulosMetodos
                                         Articulo.Cod_Articulo = Cod_Articulo 'variable publcia que contiene el cod de articulo
@@ -110,39 +103,33 @@ Public Class ModificarArticuloForm
 
                                                 articuloMetodos.ActualizarArticulo(Articulo)
 
-
                                                 Dim Fecha As Date
-
                                                 Fecha = Now
-
                                                 Articulo.Cod_Articulo = Cod_Articulo
-
-
                                                 If PrecioViejo <> Articulo.Precio Then
                                                     articuloMetodos.MovimientoPrecios(Articulo, Fecha)
+                                                    Dim articuloEmail = New ArticuloParaEmail
+                                                    With articuloEmail
+                                                        .Cod_Articulo = Articulo.Cod_Articulo
+                                                        .Descripcion = Articulo.Descripcion
+                                                        .Descripcion_SubUnidad = ComboBox_SubUnidad_Medida.Text
+                                                        .Precio_Anterior = PrecioViejo
+                                                        .Precio = Articulo.Precio
+                                                    End With
+
+
+                                                    ''mandarmail
+                                                    EnviarMail(articuloEmail)                                                               )
+                                                    Dim emailService = New EmailService
+
                                                 End If
-
-
-
-
-
-
                                                 ts.Complete()
-
-
-
-
                                             End Using
 
                                             Me.Close()
                                         Catch ex As Exception
                                             MsgBox(ex.Message)
                                         End Try
-
-
-
-
-
                                     End If
 
                                 End If
@@ -174,6 +161,12 @@ Public Class ModificarArticuloForm
 
     End Sub
     Public num As Integer = 0
+
+    Private Sub EnviarEmail(articuloEmail As ArticuloParaEmail)
+        Dim emailService = New EmailService
+        Dim cuerpo = "<table><tbody><tr><td><strong>CodArticulo<strong></td><td><strong>Descripcion<strong></td><td><strong>Medida<strong></td><td><strong>Precio Viejo<strong></td><td><strong>Precio Nuevo<strong></td></tr><tr><td>" + articuloEmail.Cod_Articulo + "</td><td>" + articuloEmail.Descripcion + "</td><td>" + articuloEmail.Descripcion_SubUnidad + "</td><td>" + articuloEmail.Precio_Anterior + "</td><td>" + articuloEmail.Precio + "</td></tr></tbody></table>"
+        emailService.EnviarMail(cuerpo)
+    End Sub
     Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox_Descripcion.TextChanged
         Dim articulosMetodos As New ArticulosMetodos
         Dim articulo As New Articulo
@@ -210,7 +203,7 @@ Public Class ModificarArticuloForm
         'cargo las sub categorias
         categoria.Cod_Categoria = ComboBox_Categoria.SelectedValue
 
-        ComboBox_SubCategoria.DataSource = articulosMetodos.ObtenerSubCategoria(Categoria)
+        ComboBox_SubCategoria.DataSource = articulosMetodos.ObtenerSubCategoria(categoria)
         ComboBox_SubCategoria.ValueMember = "Cod_SubCategoria"
         ComboBox_SubCategoria.DisplayMember = "Descripcion"
 

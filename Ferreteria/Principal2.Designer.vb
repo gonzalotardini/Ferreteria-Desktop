@@ -37,9 +37,10 @@ Partial Class Principal2
         Me.ReportesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PreciosToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.ArticulosEliminadosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.BackUpToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ModificacionesArticulosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.BackUpToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.Button4 = New System.Windows.Forms.Button()
         Me.MenuStrip1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -159,17 +160,17 @@ Partial Class Principal2
         Me.ArticulosEliminadosToolStripMenuItem.Size = New System.Drawing.Size(249, 26)
         Me.ArticulosEliminadosToolStripMenuItem.Text = "Articulos Eliminados"
         '
-        'BackUpToolStripMenuItem
-        '
-        Me.BackUpToolStripMenuItem.Name = "BackUpToolStripMenuItem"
-        Me.BackUpToolStripMenuItem.Size = New System.Drawing.Size(74, 25)
-        Me.BackUpToolStripMenuItem.Text = "BackUp"
-        '
         'ModificacionesArticulosToolStripMenuItem
         '
         Me.ModificacionesArticulosToolStripMenuItem.Name = "ModificacionesArticulosToolStripMenuItem"
         Me.ModificacionesArticulosToolStripMenuItem.Size = New System.Drawing.Size(249, 26)
         Me.ModificacionesArticulosToolStripMenuItem.Text = "Modificaciones Articulos"
+        '
+        'BackUpToolStripMenuItem
+        '
+        Me.BackUpToolStripMenuItem.Name = "BackUpToolStripMenuItem"
+        Me.BackUpToolStripMenuItem.Size = New System.Drawing.Size(74, 25)
+        Me.BackUpToolStripMenuItem.Text = "BackUp"
         '
         'PictureBox1
         '
@@ -181,11 +182,21 @@ Partial Class Principal2
         Me.PictureBox1.TabIndex = 10
         Me.PictureBox1.TabStop = False
         '
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(383, 192)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(169, 65)
+        Me.Button4.TabIndex = 11
+        Me.Button4.Text = "Button4"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
         'Principal2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(894, 482)
+        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
@@ -219,4 +230,5 @@ Partial Class Principal2
     Friend WithEvents ArticulosEliminadosToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents BackUpToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ModificacionesArticulosToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents Button4 As Button
 End Class

@@ -255,24 +255,8 @@ Public Class ArticulosForm
     Public form As New ModificarArticuloForm
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         Dim form As New ModificarArticuloForm
-
-
         form.Cod_Articulo = DataGridView1.CurrentRow.Cells(0).Value
-
-
-
-
-
-
-
         form.Show()
-
-
-
-
-
-
-
     End Sub
 
     Private Sub TextBoxBuscar_KeyDown(sender As Object, e As KeyEventArgs) Handles TextBoxBuscar.KeyDown

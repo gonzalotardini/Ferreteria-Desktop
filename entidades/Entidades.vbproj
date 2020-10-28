@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Articulo.vb" />
+    <Compile Include="ArticuloParaEmail.vb" />
     <Compile Include="ArticuloParaPresupuesto.vb" />
     <Compile Include="Categoria.vb" />
     <Compile Include="Cliente.vb" />
