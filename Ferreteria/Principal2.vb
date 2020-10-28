@@ -129,11 +129,4 @@ Public Class Principal2
         ModificacionesArticulosForm.Show()
 
     End Sub
-
-    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
-        Dim emailService As New SL.EmailService
-
-        emailService.EnviarMail()
-
-    End Sub
 End Class

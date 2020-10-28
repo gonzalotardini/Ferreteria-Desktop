@@ -108,6 +108,7 @@ Public Class ModificarArticuloForm
                                                 Articulo.Cod_Articulo = Cod_Articulo
                                                 If PrecioViejo <> Articulo.Precio Then
                                                     articuloMetodos.MovimientoPrecios(Articulo, Fecha)
+                                                    ts.Complete()
                                                     Dim articuloEmail = New ArticuloParaEmail
                                                     With articuloEmail
                                                         .Cod_Articulo = Articulo.Cod_Articulo
@@ -117,13 +118,12 @@ Public Class ModificarArticuloForm
                                                         .Precio = Articulo.Precio
                                                     End With
 
-
-                                                    ''mandarmail
-                                                    EnviarMail(articuloEmail)                                                               )
+                                                    ''Envio mail notificando modificación de precio
+                                                    EnviarEmail(articuloEmail)
                                                     Dim emailService = New EmailService
-
+                                                Else
+                                                    ts.Complete()
                                                 End If
-                                                ts.Complete()
                                             End Using
 
                                             Me.Close()
@@ -164,7 +164,22 @@ Public Class ModificarArticuloForm
 
     Private Sub EnviarEmail(articuloEmail As ArticuloParaEmail)
         Dim emailService = New EmailService
-        Dim cuerpo = "<table><tbody><tr><td><strong>CodArticulo<strong></td><td><strong>Descripcion<strong></td><td><strong>Medida<strong></td><td><strong>Precio Viejo<strong></td><td><strong>Precio Nuevo<strong></td></tr><tr><td>" + articuloEmail.Cod_Articulo + "</td><td>" + articuloEmail.Descripcion + "</td><td>" + articuloEmail.Descripcion_SubUnidad + "</td><td>" + articuloEmail.Precio_Anterior + "</td><td>" + articuloEmail.Precio + "</td></tr></tbody></table>"
+
+        Dim cuerpo As String = "<html>
+            <head>
+                <style>
+                   td {
+                        border:solid 1px;                    
+                    }
+                </style>
+             </head>
+            <body>
+                <table><tbody><tr><td><strong>CodArticulo<strong></td><td><strong>Descripcion<strong></td><td><strong>Medida<strong></td><td><strong>Precio Viejo<strong></td><td><strong>Precio Nuevo<strong></td></tr><tr><td>" + articuloEmail.Cod_Articulo.ToString + "</td><td>" + articuloEmail.Descripcion + "</td><td>" + articuloEmail.Descripcion_SubUnidad + "</td><td>" + articuloEmail.Precio_Anterior.ToString + "</td><td>" + articuloEmail.Precio.ToString + "</td></tr></tbody></table>
+            </body>
+        </html>"
+
+
+        ''Dim cuerpo As String = "<table><tbody><tr><td><strong>CodArticulo<strong></td><td><strong>Descripcion<strong></td><td><strong>Medida<strong></td><td><strong>Precio Viejo<strong></td><td><strong>Precio Nuevo<strong></td></tr><tr><td>" + articuloEmail.Cod_Articulo.ToString + "</td><td>" + articuloEmail.Descripcion + "</td><td>" + articuloEmail.Descripcion_SubUnidad + "</td><td>" + articuloEmail.Precio_Anterior.ToString + "</td><td>" + articuloEmail.Precio.ToString + "</td></tr></tbody></table>"
         emailService.EnviarMail(cuerpo)
     End Sub
     Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox_Descripcion.TextChanged

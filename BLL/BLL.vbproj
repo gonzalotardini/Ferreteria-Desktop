@@ -112,6 +112,10 @@
       <Project>{218599b8-49d6-4ccf-97f3-f993845ca067}</Project>
       <Name>Entidades</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SL\SL.vbproj">
+      <Project>{48b4032f-9eff-4f74-80db-3c23a33572d4}</Project>
+      <Name>SL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

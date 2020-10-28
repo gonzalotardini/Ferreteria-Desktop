@@ -7,3 +7,12 @@ C:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.vbproj.CoreCompileI
 C:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.dll
 C:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.xml
 C:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.pdb
+D:\Projects\Ferreteria-Desktop\Entidades\bin\Debug\Entidades.dll
+D:\Projects\Ferreteria-Desktop\Entidades\bin\Debug\Entidades.pdb
+D:\Projects\Ferreteria-Desktop\Entidades\bin\Debug\Entidades.xml
+D:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.Resources.resources
+D:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.cache
+D:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.vbproj.CoreCompileInputs.cache
+D:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.dll
+D:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.xml
+D:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.pdb

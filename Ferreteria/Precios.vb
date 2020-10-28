@@ -281,6 +281,8 @@ Public Class Precios
 
                     Articulo.Cod_Articulo = DataGridView1.Rows(i).Cells("Codigo").Value
                     Articulo.Precio = DataGridView1.Rows(i).Cells("Precio").Value
+                    Articulo.Descripcion = DataGridView1.Rows(i).Cells("Descripcion").Value
+                    Articulo.Descripcion_SubUnidad = DataGridView1.Rows(i).Cells("Sub Unidad").Value
 
                     ListaArticulos.Add(Articulo)
 

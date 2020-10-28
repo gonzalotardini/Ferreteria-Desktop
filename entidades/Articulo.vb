@@ -5,6 +5,7 @@
     Private _Descripcion As String
     Private _Cod_Unidad_Medida As Integer
     Private _Cod_SubUnidad_Medida As Integer
+    Private _Descripcion_SubUnidad As String
     Private _Precio As Decimal
     Private _Cod_Categoria As Integer
     Private _Cod_SubCategoria As Integer
@@ -62,7 +63,14 @@
         End Set
     End Property
 
-
+    Public Property Descripcion_SubUnidad As String
+        Get
+            Return _Descripcion_SubUnidad
+        End Get
+        Set(value As String)
+            _Descripcion_SubUnidad = value
+        End Set
+    End Property
     Public Property Precio As Decimal
         Get
             Return _Precio

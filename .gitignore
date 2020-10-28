@@ -2,3 +2,7 @@
 *.dll
 *.pdb
 BLL/bin/Debug/BLL.dll
+.vs/Ferreteria/v16/.suo
+*.cache
+*.cache
+Ferreteria/obj/Debug/Ferreteria.exe

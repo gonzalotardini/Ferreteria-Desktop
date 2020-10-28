@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Principal2
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Principal2
     'NOTA: el Diseñador de Windows Forms necesita el siguiente procedimiento
     'Se puede modificar usando el Diseñador de Windows Forms.  
     'No lo modifique con el editor de código.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
@@ -40,7 +40,6 @@ Partial Class Principal2
         Me.ModificacionesArticulosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.BackUpToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        Me.Button4 = New System.Windows.Forms.Button()
         Me.MenuStrip1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -182,21 +181,11 @@ Partial Class Principal2
         Me.PictureBox1.TabIndex = 10
         Me.PictureBox1.TabStop = False
         '
-        'Button4
-        '
-        Me.Button4.Location = New System.Drawing.Point(383, 192)
-        Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(169, 65)
-        Me.Button4.TabIndex = 11
-        Me.Button4.Text = "Button4"
-        Me.Button4.UseVisualStyleBackColor = True
-        '
         'Principal2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(894, 482)
-        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
@@ -230,5 +219,4 @@ Partial Class Principal2
     Friend WithEvents ArticulosEliminadosToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents BackUpToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ModificacionesArticulosToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents Button4 As Button
 End Class
