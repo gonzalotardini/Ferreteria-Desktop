@@ -23,7 +23,7 @@
         Try
             smtp.Send(correo)
         Catch ex As Exception
-            MsgBox("Se ha producido un error al enviar el email de moficiación de precios", MsgBoxStyle.Critical, "ATENCION")
+            MsgBox("Se ha producido un error al enviar el email de moficiación de precios: " + ex.Message, MsgBoxStyle.Critical, "ATENCION")
         End Try
 
 

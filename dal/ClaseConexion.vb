@@ -16,10 +16,13 @@ Public Class ClaseConexion
         Dim contraseña = ConfigurationManager.AppSettings("contraseña")
 
         '_CadenaConexion = New SqlConnection(ConfigurationManager.ConnectionStrings("ConnectionString").ConnectionString)
-        _CadenaConexion = New SqlConnection("data source =" & ip & "; initial catalog = " & base & "; user id =" & usuario & "; password =" & contraseña)
+        '_CadenaConexion = New SqlConnection("data source =" & ip & "; initial catalog = " & base & "; user id =" & usuario & "; password =" & contraseña)
 
+        _CadenaConexion = New SqlConnection("data source =FERRETERIA3-PC\SQLEXPRESS; initial catalog = Ferreteria; user id = ferreteria3; password = chaca1994")
         '"data source = NOTEBOOK-PC\SQLEXPRESS; initial catalog = Ferreteria; user id = notebook; password = chaca1994"
         '"Data Source=GONZALO-PC\SQLEXPRESS;Initial Catalog=Ferreteria;Integrated Security=True"
+        '"Data Source=DESKTOP-JAKV9R3\SQLEXPRESS;Initial Catalog=Ferreteria;Integrated Security=True"
+
         'data source = FERRETERIA-PC\SQLEXPRESS; initial catalog = Ferreteria; user id = FERRETERIA-PC; password = chaca1994
     End Sub
 

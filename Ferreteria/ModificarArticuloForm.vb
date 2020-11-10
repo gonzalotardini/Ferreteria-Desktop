@@ -109,26 +109,28 @@ Public Class ModificarArticuloForm
                                                 If PrecioViejo <> Articulo.Precio Then
                                                     articuloMetodos.MovimientoPrecios(Articulo, Fecha)
                                                     ts.Complete()
-
-                                                    ''Verifico si debo enviar mail notificando modificación de precio
-                                                    If (articuloMetodos.ExisteEnTienda(Articulo.Cod_Articulo) = True) Then
-                                                        Dim articuloEmail = New ArticuloParaEmail
-                                                        With articuloEmail
-                                                            .Cod_Articulo = Articulo.Cod_Articulo
-                                                            .Descripcion = Articulo.Descripcion
-                                                            .Descripcion_SubUnidad = ComboBox_SubUnidad_Medida.Text
-                                                            .Precio_Anterior = PrecioViejo
-                                                            .Precio = Articulo.Precio
-                                                        End With
-
-                                                        ''Envio mail notificando modificación de precio
-                                                        EnviarEmail(articuloEmail)
-                                                        Dim emailService = New EmailService
-                                                    End If
                                                 Else
                                                     ts.Complete()
                                                 End If
                                             End Using
+
+
+                                            If PrecioViejo <> Articulo.Precio Then
+                                                ''Verifico si debo enviar mail notificando modificación de precio
+                                                If (articuloMetodos.ExisteEnTienda(Articulo.Cod_Articulo) = True) Then
+                                                    Dim articuloEmail = New ArticuloParaEmail
+                                                    With articuloEmail
+                                                        .Cod_Articulo = Articulo.Cod_Articulo
+                                                        .Descripcion = Articulo.Descripcion
+                                                        .Descripcion_SubUnidad = ComboBox_SubUnidad_Medida.Text
+                                                        .Precio_Anterior = PrecioViejo
+                                                        .Precio = Articulo.Precio
+                                                    End With
+
+                                                    ''Envio mail notificando modificación de precio
+                                                    EnviarEmail(articuloEmail)
+                                                End If
+                                            End If
 
                                             Me.Close()
                                         Catch ex As Exception
