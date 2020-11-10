@@ -16,3 +16,4 @@ D:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.vbproj.CoreCompileI
 D:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.dll
 D:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.xml
 D:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.pdb
+D:\Projects\Ferreteria-Desktop\Entidades\obj\Debug\Entidades.vbprojAssemblyReference.cache
