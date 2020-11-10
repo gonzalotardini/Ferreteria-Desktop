@@ -710,4 +710,29 @@ Dim _Consulta As String
         Me.Conexion.Close()
 
     End Function
+    Public Function ExisteEnTienda(codArticulo As Integer) As Boolean
+
+        Dim _Consulta As String
+        Dim _Comando As New SqlCommand
+        Dim PresupuestoCabecera As New PresupuestoCabecera
+        Dim Cantidad As Integer
+
+        Me.Conexion.Close()
+        Me.Conexion.Open()
+
+        _Consulta = "select count(*) from ArticulosTienda where Cod_Articulo=@Cod_Articulo"
+
+        _Comando = New SqlCommand(_Consulta, Me.Conexion)
+        _Comando.Parameters.AddWithValue("@Cod_Articulo", codArticulo)
+
+        Cantidad = (_Comando.ExecuteScalar) 'ejecuto scalar porque quiero obtener el valor, uso executenonqueri cuando quiero hacer un insert
+
+        If Cantidad > 0 Then
+            Return True
+        Else
+            Return False
+        End If
+
+
+    End Function
 End Class

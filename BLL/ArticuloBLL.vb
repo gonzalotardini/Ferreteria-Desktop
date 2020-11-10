@@ -71,7 +71,6 @@ Public Class ArticuloBLL
 
                 Else
 
-
                     Articulo.Precio = NuevoPrecio
                     ArticuloDal.ActualizarPrecio(Articulo)
                     Dim Fecha As Date
@@ -82,19 +81,24 @@ Public Class ArticuloBLL
 
                 End If
 
-                Dim articuloEmail = New ArticuloParaEmail
-                With articuloEmail
-                    .Cod_Articulo = Articulo.Cod_Articulo
-                    .Descripcion = Articulo.Descripcion
-                    .Descripcion_SubUnidad = Articulo.Descripcion_SubUnidad
-                    .Precio_Anterior = precioViejo
-                    .Precio = Articulo.Precio
-                End With
-                articuloEmailList.Add(articuloEmail)
+
+                If (ArticuloDal.ExisteEnTienda(Articulo.Cod_Articulo) = True) Then
+                    Dim articuloEmail = New ArticuloParaEmail
+                    With articuloEmail
+                        .Cod_Articulo = Articulo.Cod_Articulo
+                        .Descripcion = Articulo.Descripcion
+                        .Descripcion_SubUnidad = Articulo.Descripcion_SubUnidad
+                        .Precio_Anterior = precioViejo
+                        .Precio = Articulo.Precio
+                    End With
+                    articuloEmailList.Add(articuloEmail)
+                End If
             Next
 
             ts.Complete()
-            EnviarEmail(articuloEmailList)
+            If articuloEmailList.Count > 0 Then
+                EnviarEmail(articuloEmailList)
+            End If
 
         End Using
 
@@ -106,7 +110,7 @@ Public Class ArticuloBLL
         Dim tableItems As String = ""
 
         For Each articulo As ArticuloParaEmail In articuloEmailList
-            tableItems += "<tr><td>" + articulo.Cod_Articulo.ToString + "</td><td>" + articulo.Descripcion + "</td><td>" + articulo.Descripcion_SubUnidad + "</td><td>" + articulo.Precio_Anterior.ToString + "</td><td>" + articulo.Precio.ToString + "</td></tr>"
+            tableItems += "<tr><td>" + articulo.Cod_Articulo.ToString + "</td><td>" + articulo.Descripcion + "</td><td>" + articulo.Descripcion_SubUnidad + "</td><td> $" + articulo.Precio_Anterior.ToString + "</td><td> $" + articulo.Precio.ToString + "</td></tr>"
         Next
 
         Dim cuerpo As String = "<html>
