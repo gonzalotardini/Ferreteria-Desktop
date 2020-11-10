@@ -4,6 +4,7 @@
 
         Dim smtp As New System.Net.Mail.SmtpClient
         Dim correo As New System.Net.Mail.MailMessage
+        Dim fechaHoy As String = String.Format("{0:dd/MM/yyyy HH:mm:ss}", DateTime.Now)
 
         With smtp
             .Port = 587
@@ -14,7 +15,7 @@
         With correo
             .From = New System.Net.Mail.MailAddress("augustodibernardi@gmail.com")
             .To.Add("gonzalotardini@gmail.com")
-            .Subject = "Modificación de precios"
+            .Subject = "Modificación de precios " + fechaHoy
             .Body = CuerpoEmail
             .IsBodyHtml = True
             .Priority = System.Net.Mail.MailPriority.Normal
