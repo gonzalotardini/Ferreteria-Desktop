@@ -9,7 +9,7 @@
         With smtp
             .Port = 587
             .Host = "smtp.gmail.com"
-            .Credentials = New System.Net.NetworkCredential("augustodibernardi@gmail.com", "chaca1994")
+            .Credentials = New System.Net.NetworkCredential("augustodibernardi@gmail.com", "cabezapelada")
             .EnableSsl = True
         End With
         With correo
