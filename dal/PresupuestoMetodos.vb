@@ -39,7 +39,7 @@ Public Class PresupuestoMetodos
     End Function
 
 
-    Public Function ObtenerPresupuestoCabeceraPorNombre(PresupuestoCabecera As PresupuestoCabecera) As DataSet
+    Public Function ObtenerPresupuestoCabeceraPorNombre(PresupuestoCabecera As PresupuestoCabecera, Eliminado As Boolean) As DataSet
         Dim _Consulta As String
         Dim _Comando As SqlCommand
         Dim _DataSet As New DataSet
@@ -47,12 +47,10 @@ Public Class PresupuestoMetodos
         Me.Conexion.Close()
         Me.Conexion.Open()
 
-        _Consulta = "select Cod_Presupuesto as 'Codigo', Nombre, Fecha, Total from PresupuestoCabecera where Nombre like '%" + PresupuestoCabecera.Nombre + "%' and Eliminado=0 order by Fecha desc"
-
+        _Consulta = "select Cod_Presupuesto as 'Codigo', Nombre, Fecha, Total from PresupuestoCabecera where Nombre like '%" + PresupuestoCabecera.Nombre + "%' and "
+        _Consulta += "(Eliminado=0" + IIf(Eliminado = True, " or Eliminado=1)", ")") + " order by Fecha desc"
 
         _Comando = New SqlCommand(_Consulta, Me.Conexion)
-
-
 
         Dim _Adapter As New SqlDataAdapter(_Comando)
 
@@ -64,7 +62,7 @@ Public Class PresupuestoMetodos
 
     End Function
 
-   
+
 
     Public Function ObtenerPresupuestoCabecera(presupuestoCabecera As PresupuestoCabecera) As DataSet
 
@@ -79,7 +77,7 @@ Public Class PresupuestoMetodos
 
 
         'lleno la cabecera del presupeusto
-        _Consulta = "Select PC.Cod_Presupuesto, PC.fecha, PC.Nombre, PC.Total From PresupuestoCabecera AS PC where  cod_presupuesto=@Cod_Presupuesto"
+        _Consulta = "Select PC.Cod_Presupuesto, PC.fecha, PC.Nombre, PC.Total From PresupuestoCabecera As PC where  cod_presupuesto=@Cod_Presupuesto"
 
         Me.Conexion.Close()
         Me.Conexion.Open()
@@ -112,7 +110,7 @@ Public Class PresupuestoMetodos
         Dim _DataSet As New DataSet
 
         'lleno el detalle del presupuesto
-        _Consulta = "select PC.Cantidad ,PC.cod_articulo as 'Codigo', A.Cod_Articulo_Proveedor as 'CodigoBarras', CASE WHEN PC.Descripcion = null THEN  A.Descripcion ELSE PC.Descripcion end as 'Descripcion', "
+        _Consulta = "Select PC.Cantidad , PC.cod_articulo as 'Codigo', A.Cod_Articulo_Proveedor as 'CodigoBarras', CASE WHEN PC.Descripcion = null THEN  A.Descripcion ELSE PC.Descripcion end as 'Descripcion', "
         _Consulta += "  M.Descripcion as Marca, SU.Descripcion as 'UnidadMedida', PC.Precio, PC.importe as 'Importe' from Marca as M, SubUnidad_Medida as SU, PresupuestoDetalle as PC, Articulo AS A WHERE PC.Cod_Articulo=A.Cod_Articulo and M.Cod_Marca=A.cod_Marca and SU.Cod_SubUnidad_Medida=A.Cod_SubUnidad_Medida  AND Cod_Presupuesto=@Cod_Presupuesto "
 
         _Comando = New SqlCommand(_Consulta, Me.Conexion)

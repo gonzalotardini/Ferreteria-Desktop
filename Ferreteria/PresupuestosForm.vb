@@ -123,7 +123,7 @@ Public Class PresupuestosForm
                 PresupuestoCabecera.Nombre = (TextBox1.Text).ToUpper
 
 
-                DataGridView1.DataSource = PresupuestoDAO.ObtenerPresupuestoCabeceraPorNombre(PresupuestoCabecera).Tables(0)
+                DataGridView1.DataSource = PresupuestoDAO.ObtenerPresupuestoCabeceraPorNombre(PresupuestoCabecera, CheckEliminados.Checked).Tables(0)
 
         End Select
 
