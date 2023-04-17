@@ -73,15 +73,8 @@ Public Class PresupuestoNuevoForm
 
 
     Public Sub TraerCliente(Cliente As Cliente)
-
-
         TextBoxCuit.Text = CStr(Cliente.Cuit)
         TextBoxNombre.Text = Cliente.Razon_Social
-
-
-
-
-
     End Sub
 
     Private b As Integer
@@ -864,7 +857,7 @@ Public Class PresupuestoNuevoForm
 
         cantidadFilas = (DataGridView1.RowCount) - 1
 
-        DataGridView1.Rows(cantidadFilas).Cells(0).Value = 1
+        DataGridView1.Rows(cantidadFilas).Cells(0).Value = 10201
         DataGridView1.Rows(cantidadFilas).Cells(1).Value = 1
         DataGridView1.Rows(cantidadFilas).Cells(2).Value = 1
         DataGridView1.Rows(cantidadFilas).Cells(4).Value = "SIN MARCA"
@@ -874,21 +867,9 @@ Public Class PresupuestoNuevoForm
 
         Dim total As Decimal
         For i = 0 To cantidadFilas
-
-
-
             PresupuestoDetalle.Importe = Convert.ToDecimal(DataGridView1.Rows(i).Cells(7).Value)
-
-
             total = total + PresupuestoDetalle.Importe
-
-
-
-
-
         Next
-
-
 
         LabelTOTAL.Text = CStr(total)
         SubTotalLabel.Text = FormatNumber((total / 1.21), 2)

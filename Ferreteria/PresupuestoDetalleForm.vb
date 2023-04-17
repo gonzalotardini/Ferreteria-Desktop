@@ -32,22 +32,19 @@ Public Class PresupuestoDetalleForm
 
         PresupuestoCabecera.Cod_Presupuesto = PresupuestoP.Cod_Presupuesto
 
+        Dim row As DataRow = PresupuestoMetodos.ObtenerPresupuestoCabecera(PresupuestoCabecera).Tables(0).Rows(0)
 
-        PresupuestoCabecera.Nombre = PresupuestoMetodos.ObtenerPresupuestoCabecera(PresupuestoCabecera).Tables(0).Rows(0).Item("Nombre")
-        PresupuestoCabecera.Fecha = PresupuestoMetodos.ObtenerPresupuestoCabecera(PresupuestoCabecera).Tables(0).Rows(0).Item("Fecha")
-        PresupuestoCabecera.Cod_Presupuesto = PresupuestoMetodos.ObtenerPresupuestoCabecera(PresupuestoCabecera).Tables(0).Rows(0).Item("Cod_Presupuesto")
+        PresupuestoCabecera.Nombre = row.Item("Nombre")
+        PresupuestoCabecera.Fecha = row.Item("Fecha")
+        PresupuestoCabecera.Cod_Presupuesto = row.Item("Cod_Presupuesto")
         ' cliente.Razon_Social = PresupuestoMetodos.ObtenerPresupuestoCabecera(PresupuestoCabecera).Tables(0).Rows(0).Item("Razon_Social")
-        PresupuestoCabecera.Total = PresupuestoMetodos.ObtenerPresupuestoCabecera(PresupuestoCabecera).Tables(0).Rows(0).Item("Total")
-
-
+        PresupuestoCabecera.Total = row.Item("Total")
 
         LabelCodPresupuesto.Text = PresupuestoCabecera.Cod_Presupuesto
         TextBoxFecha.Text = PresupuestoCabecera.Fecha
         'TextBoxCuit.Text = PresupuestoCabecera.Cod_Cliente
         TextBoxNombre.Text = PresupuestoCabecera.Nombre
         LabelTOTAL.Text = PresupuestoCabecera.Total
-
-
 
         DataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells
 
@@ -630,20 +627,12 @@ Public Class PresupuestoDetalleForm
 
         CantidadFilas = DataGridView1.RowCount
 
-
-
-
-
         'If PresupuestoNuevoForm.Visible = True Then
 
         If ArticulosGridView.CurrentRow.Index < (ArticulosGridView.RowCount) - 1 Then
 
             Articulo.Cod_Articulo = CInt(ArticulosGridView.CurrentRow.Cells(0).Value)
-
-
             ArticuloParaPresupuesto = ArticuloMetodos.BuscarArticuloPorCodigo(Articulo)
-
-
 
             'Articulo.Cod_Articulo = ArticuloMetodos.BuscarArticuloPorCodigo(Articulo).Tables(0).Rows(0).Item("Codigo")
             Articulo.Cod_Articulo = CInt(ArticuloParaPresupuesto.Cod_Articulo)
@@ -656,63 +645,42 @@ Public Class PresupuestoDetalleForm
 
 
             Dim RespuestaInputBox As String
-            Dim EsNumero As Boolean
 
             RespuestaInputBox = InputBox("Introduza cantidad", "ATENCIÓN", CStr(1))
 
-            EsNumero = IsNumeric(RespuestaInputBox)
 
-            If EsNumero = True Then
-
+            If IsNumeric(RespuestaInputBox) Then
 
                 If RespuestaInputBox.Contains(".") = True Then
-
                     RespuestaInputBox = Replace(RespuestaInputBox, ".", ",")
-
-                Else
-
-
                 End If
 
+                ' Verifico si ya existe en el detalle, si ya existe actualizo la cantidad de la que ya esta
+                ' Tambien verifico si el precio se modifico. Si cambio pongo el precio NUEVO y pinto la fila para que se den cuenta
                 For Each row As DataGridViewRow In Me.DataGridView1.Rows
 
                     If Articulo.Cod_Articulo = row.Cells("Codigo").Value Then
 
                         RespuestaInputBox = RespuestaInputBox + Convert.ToDecimal(row.Cells("Cantidad").Value)
-                        row.Cells(0).Value = RespuestaInputBox
+                        row.Cells("Cantidad").Value = RespuestaInputBox
                         bandera = 1
                         indice = row.Index
 
+                        If (Articulo.Precio > row.Cells("Precio").Value) Then
+                            row.Cells("Precio").Value = Articulo.Precio
+                            DataGridView1.Rows(indice).DefaultCellStyle.BackColor = Color.Coral
+                        End If
                     End If
-
-
-
                 Next
-
-
-
-                ' presupuestoDetalle.Cantidad = Convert.ToDecimal(RespuestaInputBox)
 
                 presupuestoDetalle.Cantidad = Convert.ToDouble(RespuestaInputBox)
 
                 If bandera = 0 Then
 
-
                     Dim dt As DataTable = DirectCast(DataGridView1.DataSource, DataTable)
                     dt.Rows.Add()
-
-
-
-
                     DataGridView1.Item("Cantidad", CantidadFilas).ValueType = GetType(Decimal)
-
-
-
                     DataGridView1.Item("Cantidad", CantidadFilas).Value = presupuestoDetalle.Cantidad
-
-                    'DataGridView1.Item("Cantidad", CantidadFilas).Value = "1,5" 'de prueba
-
-
                     DataGridView1.Item("Codigo", CantidadFilas).Value = Articulo.Cod_Articulo
                     DataGridView1.Item("CodigoBarras", CantidadFilas).Value = Articulo.Cod_Articulo_Proveedor
                     DataGridView1.Item("Descripcion", CantidadFilas).Value = Articulo.Descripcion
@@ -720,24 +688,14 @@ Public Class PresupuestoDetalleForm
                     DataGridView1.Item("UnidadMedida", CantidadFilas).Value = SubUnidad_Medida.Descripcion_SubUnidad
                     DataGridView1.Item("Precio", CantidadFilas).Value = Articulo.Precio
 
-
-
                     presupuestoDetalle.Importe = (DataGridView1.Item("Cantidad", CantidadFilas).Value) * Articulo.Precio
-
-                    '  Format(presupuestoDetalle.Importe, "##,##0.00")
-
-
                     DataGridView1.Item("Importe", CantidadFilas).Value = presupuestoDetalle.Importe
 
                 Else
-
+                    'Si ya esta agregado en el detalle
                     DataGridView1.Item("Cantidad", indice).Value = presupuestoDetalle.Cantidad
                     presupuestoDetalle.Importe = (DataGridView1.Item("Cantidad", indice).Value) * Articulo.Precio
-
-
-
-
-                    DataGridView1.Item("Importe", indice).Value = FormatNumber(Convert.ToDecimal(presupuestoDetalle.Importe))
+                    DataGridView1.Item("Importe", indice).Value = Convert.ToDecimal(presupuestoDetalle.Importe)
                 End If
 
 
@@ -747,41 +705,16 @@ Public Class PresupuestoDetalleForm
 
                 For i = 0 To CantidadFilas - 1
 
-
                     presupuestoDetalle.Importe = Convert.ToDecimal(DataGridView1.Rows(i).Cells(7).Value)
-
-
-
 
                     '  PresupuestoMetodos.CalcularTotal(presupuestoDetalle, PresupuestoCabecera)
 
                     PresupuestoCabecera.Total = PresupuestoMetodos.CalcularTotal(presupuestoDetalle, PresupuestoCabecera).Total
-
-
-
-
-
-
-
                 Next
 
 
-
-
-
                 LabelTOTAL.Text = (PresupuestoCabecera.Total).ToString("##,##0.00")
-
-
-
-
-                DataGridView1.Rows(0).Cells(7).Value() = Format((DataGridView1.Rows(0).Cells(7).Value()), ("##,##0.00"))
-
-
-                'cantidad.ToString("##,##0.00")
-
-
-                ' SubTotalLabel.Text = FormatNumber((PresupuestoCabecera.Total / 1.21), 2)
-
+                'DataGridView1.Rows(0).Cells(7).Value() = Format((DataGridView1.Rows(0).Cells(7).Value()), ("##,##0.00"))
 
                 TextBoxBuscar.Text = ""
                 Me.Show()
