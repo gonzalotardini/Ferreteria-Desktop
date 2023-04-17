@@ -18,9 +18,9 @@ Public Class BackUp
             Me.Conexion.Close()
             Me.Conexion.Open()
 
-            Dim conexion As New SqlConnection("data source = FERRETERIA-PC\SQLEXPRESS; initial catalog = Ferreteria; user id = FERRETERIA-PC; password = chaca1994")
+            Dim conexion As New SqlConnection("data source = FERRETERIA2-PC\SQLEXPRESS; initial catalog = Ferreteria; user id = FERRETERIA-PC; password = chaca1994")
 
-            Dim RutaDestino As String = "C:\Users\Ferreteria2\Dropbox\backup Base de datos\"
+            Dim RutaDestino As String = "C:\BackUp Base de datos\"
 
             Dim cmd As New SqlCommand("BACKUP DATABASE Ferreteria TO DISK = '" & RutaDestino & NombreRespaldo & "'", Me.Conexion)
 

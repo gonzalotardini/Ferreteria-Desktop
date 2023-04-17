@@ -6,3 +6,5 @@ BLL/bin/Debug/BLL.dll
 *.cache
 *.cache
 Ferreteria/obj/Debug/Ferreteria.exe
+SL/obj/Debug/SL.vbprojAssemblyReference.cache
+*.cache
