@@ -857,8 +857,8 @@ Public Class PresupuestoNuevoForm
 
         cantidadFilas = (DataGridView1.RowCount) - 1
 
-        DataGridView1.Rows(cantidadFilas).Cells(0).Value = 10201
-        DataGridView1.Rows(cantidadFilas).Cells(1).Value = 1
+        DataGridView1.Rows(cantidadFilas).Cells(0).Value = 1
+        DataGridView1.Rows(cantidadFilas).Cells(1).Value = 10201
         DataGridView1.Rows(cantidadFilas).Cells(2).Value = 1
         DataGridView1.Rows(cantidadFilas).Cells(4).Value = "SIN MARCA"
         DataGridView1.Rows(cantidadFilas).Cells(5).Value = "1 U"
